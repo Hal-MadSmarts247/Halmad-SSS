@@ -1,0 +1,8 @@
+{
+  "name": "Hal-Mad Smart Synergy",
+  "description": "The premier digital destination for minimalist hardware, featuring Gemini-powered AI shopping assistance and real-time product visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
